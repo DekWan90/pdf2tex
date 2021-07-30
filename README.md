@@ -1,2 +1,2 @@
 # pdf2tex
-Convert PDF document into LaTeX format
+Convert PDF document into Latex format
