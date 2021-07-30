@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627633030 source:/home/dekwan/Projek/pdf2tex/main.cpp
+	<iostream>
+	<fstream>
+
